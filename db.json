@@ -11,19 +11,7 @@
       "startDate": "",
       "department": "",
       "position": ""
-    },
-    {
-      "name": "林星宇",
-      "birth": "",
-      "sex": "男",
-      "phone": "",
-      "email": "",
-      "idNum": "",
-      "employeeId": "3",
-      "startDate": "",
-      "department": "",
-      "position": ""
-    },
+    }，
     {
       "name": "zhao",
       "birth": "",
@@ -31,7 +19,7 @@
       "phone": "",
       "email": "124",
       "idNum": "",
-      "employeeId": "5",
+      "employeeId": "2",
       "startDate": "",
       "department": "",
       "position": ""
@@ -43,7 +31,7 @@
       "phone": "",
       "email": "123",
       "idNum": "",
-      "employeeId": "7",
+      "employeeId": "3",
       "startDate": "",
       "department": "",
       "position": ""
